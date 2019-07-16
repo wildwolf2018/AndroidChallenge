@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Android Challenge</string>
+    <string name="main_activity_title">ACL 4 Phase 1</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_acl">About ACL</string>
+    <string name="welcome_message">Welcome to ACL 4.0</string>
+    <string name="name">Teboho Thabo Thage</string>
+    <string name="track">Track:</string>
+    <string name="country">Country:</string>
+    <string name="email">Email:</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="username">Slack Username:</string>
+    <string name="profile">My Profile</string>
+    <string name="label_wildwolf2018">wildwolf2018</string>
+    <string name="label_phone_number">0720474905</string>
+    <string name="label_gmail">tebohothg@gmail.com</string>
+    <string name="country_of_origin">South Africa</string>
+    <string name="label_os">Android</string>
+    <string name="error_message">Error connecting to website</string>
+</resources>
